@@ -13,4 +13,5 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheJorgeGamboa)](https://github.com/TheJorgeGamboa/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheJorgeGamboa&theme=chartreuse-dark&show_icons=true)
