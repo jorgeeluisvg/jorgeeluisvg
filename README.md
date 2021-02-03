@@ -5,7 +5,7 @@
 - 💻 2nd year Computer Science student
 - 🌱 I’m currently learning Python and Java
 - 💬 Ask me about: ... Anything
-- ⚡ Fun fact: ... I have a YouTube channel
+- ⚡ Fun fact: ... Hufflepuff
 
 
 
