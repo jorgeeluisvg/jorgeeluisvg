@@ -3,7 +3,7 @@
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jorgeeluisvg&theme=chartreuse-dark&show_icons=true)
-<img width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeeluisvg&show_icons=true&locale=en&layout=compact" alt="jorgeeluisvg"/>
+<img width = "42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeeluisvg&show_icons=true&locale=en&layout=compact" alt="jorgeeluisvg"/>
 
 ![snake gif](https://github.com/jorgeeluisvg/jorgeeluisvg/blob/output/github-contribution-grid-snake.gif)
   
