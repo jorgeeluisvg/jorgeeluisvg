@@ -12,4 +12,4 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jorgeeluisvg&theme=chartreuse-dark&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeeluisvh&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeeluisvg&show_icons=true&theme=radical)
