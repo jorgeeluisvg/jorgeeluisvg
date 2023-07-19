@@ -12,6 +12,8 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jorgeeluisvg&theme=chartreuse-dark&show_icons=true)
+<img src="https://raw.githubusercontent.com/jorgeeluisvg/jorgeeluisvg/output/snake.svg" alt="Snake animation" />
+
 
 ![snake gif](https://github.com/jorgeeluisvg/jorgeeluisvg/blob/output/github-contribution-grid-snake.gif)
 
