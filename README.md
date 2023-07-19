@@ -3,11 +3,12 @@
 - 🌱 I’m currently learning Python and Java
 - 💬 Ask me about: ... Anything
 - ⚡ Fun fact: ... Hufflepuff
-<div align="center"> 
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jorgeeluisvg&theme=chartreuse-dark&show_icons=true)
 
 ![snake gif](https://github.com/jorgeeluisvg/jorgeeluisvg/blob/output/github-contribution-grid-snake.gif)
-
+  
+<div align="center"> 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
