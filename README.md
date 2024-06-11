@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Jorge</h1>
 <h2 align="center">A Full-Stack developer from 🇲🇽</h2>
 <h2 align="center">About me</h2>
-<p align='center' style='font-size:1.2rem;' >Professional coffee drinker. Hobbyist human being</p>
+<p align='center' style='font-size:1.2rem;' >Professional coffee drinker. Hobbyist human being. I make videos, sometimes</p>
 <h3 align="center">Techs I ♥</h3>
 <div style="display:flex;justify-content:center;align-items:center;flex-wrap:wrap;margin:10px;"><div align='center' style="gap:10px;">
 <img style="" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
