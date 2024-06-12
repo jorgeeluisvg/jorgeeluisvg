@@ -21,6 +21,7 @@
 <img style="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img style="" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img style="" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img style="" src="  https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"></div></div>
 <img style="" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></div></div>
 <h3 align="center">Some data 📊</h3>
 <div align='center'><img style= align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeeluisvg&layout=compact&hide=html,css,scss&langs_count=6&theme=dark&bg_color=#0d1117&hide_border=true' alt='My most used languages' />
